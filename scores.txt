@@ -1,0 +1,7 @@
+jung,80
+hanwoong,150
+han,110
+woong,30
+woonghanjun,10
+hello,90
+java,110

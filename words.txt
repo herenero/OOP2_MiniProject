@@ -1,0 +1,14 @@
+star
+meteor
+java
+swing
+thread
+typing
+galaxy
+planet
+ready
+study
+school
+person
+compile
+class
